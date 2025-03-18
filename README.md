@@ -35,6 +35,13 @@
 
 ## <center> <strong> Como Utilizar? 🤷🏽‍♀️</strong> </center>
 <p>Você pode acessar nossa aplicação através do Vercel clicando no link abaixo e utilizar de forma ilimitada com seus amigos!</p>
+
+<center>
+
+ [Sortedor de Amigo Secreto](https://challengealura-amigosecreto.vercel.app/)
+
+ </center>
+
 <p> Para sortear corretamente, você precisar inserir os nomes um a um no campo "Digite um nome" e clicar no botão "Adicionar"</p>
 <center> <img src="./assets/passo1.png" alt="drawing" width="300"/> </center>
 <p>Logo após ter inserido toda sua lista de amigos,</p>
