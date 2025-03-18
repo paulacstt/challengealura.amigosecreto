@@ -1,11 +1,8 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
-    --color-text: #444444;
-    --color-white: #FFFFFF;
+    --color-primary: #3c493f;
+    --color-secondary: #f0f7f4;
+    --color-tertiary: #b3bfb8;
+    --color-blue: #a2e3c4;
 }
 
 /* Estilos gerais */
@@ -30,6 +27,7 @@ body {
     width: 100%;
 }
 
+
 /* Banner */
 .header-banner {
     flex: 40%;
@@ -53,22 +51,32 @@ body {
 }
 
 /* Títulos */
+.header-banner-titles {
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+}
+
 .main-title {
     font-size: 48px;
-    font-family: "Merriweather", serif;
-    font-weight: 900;
+    font-weight: 400;
     font-style: italic;
-    color: var(--color-white);
+    color: var(--color-blue);
+}
+
+.sub-title{
+    color: var(--color-secondary)
+
 }
 
 .section-title {
     font-family: "Inter", serif;
-    font-size: 36px;
-    font-weight: 700;
+    font-size: 25px;
+    font-weight: 500;
     color: var(--color-primary);
     margin: 10px 0;
     text-align: center;
 }
+
 
 /* Contêineres de entrada e botão */
 .input-wrapper {
@@ -100,7 +108,7 @@ body {
     border: 2px solid #333;
     border-right: none;
     border-radius: 25px 0 0 25px;
-    font-family: "Merriweather", serif;
+    font-family: "Outfit", sans-serif;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
@@ -117,18 +125,19 @@ button {
 
 .button-add {
     background-color: var(--color-tertiary);
-    color: var(--color-text);
+    color: var(--color-primary);
     border-radius: 0 25px 25px 0;
 }
 
 .button-add:hover {
-    background-color: #a1a1a1;
+    background-color: var(--color-blue);
+    font-weight: 900;
 }
 
 /* Listas */
 ul {
     list-style-type: none;
-    color: var(--color-text);
+    color: var(--color-primary);
     font-family: "Inter", sans-serif;
     font-size: 18px;
     margin: 20px 0;
@@ -136,7 +145,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #00E8D0;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
@@ -148,8 +157,8 @@ ul {
     align-items: center;
     width: 100%;
     padding: 10px 40px;
-    color: var(--color-white);
-    background-color: var(--color-button);
+    color: var(--color-primary);
+    background-color: var(--color-blue);
     font-size: 16px;
 }
 
@@ -158,5 +167,5 @@ ul {
 }
 
 .button-draw:hover {
-    background-color: var(--color-button-hover);
+    background-color: var(--color-tertiary);
 }
