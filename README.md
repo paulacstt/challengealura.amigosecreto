@@ -3,13 +3,13 @@
 ### <center>Desafio de programação em JavaScript que faz parte da Formação Iniciante em Programação. </center>
 
 ## <strong>Indíce</strong>
-- <a href="#linguagens"> Linguagens utilizadas. </a>
-- <a href="#sobre"> Sobre o projeto. </a>
-- <a href="#utilidade"> Qual sua utilidade? </a>
-- <a href="#uso"> Como utilizar? </a>
+- <a href="#-linguagens-utilizadas"> Linguagens utilizadas. </a>
+- <a href="#-sobre-o-projeto"> Sobre o projeto. </a>
+- <a href="#-qual-a-sua-utilidade"> Qual sua utilidade? </a>
+- <a href="#-como-utilizar"> Como utilizar? </a>
 
-## <p style="text-align:center;"> <strong> Linguagens Utilizadas 💻</strong> </p>
- <center> <img src="./assets/linguagens.png" alt="drawing" width="150"/> </center>
+## <center> <strong> Linguagens Utilizadas 💻</strong> </center>
+ <center> <img style="width:150px" src="./assets/linguagens.png" alt="Linguagens Utilizadas: HTML, JS, CSS." "/> </center>
 
 ✨ <strong>HTML5</strong> para marcação de toda a estrutura.
 
@@ -43,8 +43,8 @@
  </center>
 
 <p> Para sortear corretamente, você precisar inserir os nomes um a um no campo "Digite um nome" e clicar no botão "Adicionar"</p>
-<center> <img src="./assets/passo1.png" alt="drawing" width="300"/> </center>
+<center> <img style="width:300px" src="./assets/passo1.png" alt="Passo 1"/> </center>
 <p>Logo após ter inserido toda sua lista de amigos,</p>
-<center> <img src="./assets/passo2.png" alt="drawing" width="300"/> </center>
+<center> <img style="width:300px" src="./assets/passo2.png" alt="Passo 2"/> </center>
 <p><center> basta clicar no botão: "SORTEAR AMIGO" <strong>e o resultado aparecerá de forma instantânea!</strong</center></p>
-<center> <img src="./assets/passo3.png" alt="drawing" width="300"/> </center>
+<center> <img style="width:300px" src="./assets/passo3.png" alt="Passo 3"/> </center>
