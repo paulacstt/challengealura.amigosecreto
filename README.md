@@ -8,7 +8,7 @@
 - <a href="#utilidade"> Qual sua utilidade? </a>
 - <a href="#uso"> Como utilizar? </a>
 
-## <center> <strong> Linguagens Utilizadas 💻</strong> </center>
+## <p style="text-align:center;"> <strong> Linguagens Utilizadas 💻</strong> </p>
  <center> <img src="./assets/linguagens.png" alt="drawing" width="150"/> </center>
 
 ✨ <strong>HTML5</strong> para marcação de toda a estrutura.
