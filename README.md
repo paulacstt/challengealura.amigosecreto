@@ -9,7 +9,7 @@
 - <a href="#-como-utilizar"> Como utilizar? </a>
 
 ## <center> <strong> Linguagens Utilizadas 💻</strong> </center>
- <center> <img style="width:150" src="./assets/linguagens.png" alt="Linguagens Utilizadas: HTML, JS, CSS." "/> </center>
+ <center> <img style="width:80" src="./assets/linguagens.png" alt="Linguagens Utilizadas: HTML, JS, CSS." "/> </center>
 
 ✨ <strong>HTML5</strong> para marcação de toda a estrutura.
 
