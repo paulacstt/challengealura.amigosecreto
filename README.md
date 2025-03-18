@@ -9,7 +9,7 @@
 - <a href="#-como-utilizar"> Como utilizar? </a>
 
 ## <center> <strong> Linguagens Utilizadas 💻</strong> </center>
- <center> <img style="width:150px" src="./assets/linguagens.png" alt="Linguagens Utilizadas: HTML, JS, CSS." "/> </center>
+ <center> <img style="width:150" src="./assets/linguagens.png" alt="Linguagens Utilizadas: HTML, JS, CSS." "/> </center>
 
 ✨ <strong>HTML5</strong> para marcação de toda a estrutura.
 
@@ -43,8 +43,8 @@
  </center>
 
 <p> Para sortear corretamente, você precisar inserir os nomes um a um no campo "Digite um nome" e clicar no botão "Adicionar"</p>
-<center> <img style="width:300px" src="./assets/passo1.png" alt="Passo 1"/> </center>
+<center> <img style="width:300" src="./assets/passo1.png" alt="Passo 1"/> </center>
 <p>Logo após ter inserido toda sua lista de amigos,</p>
-<center> <img style="width:300px" src="./assets/passo2.png" alt="Passo 2"/> </center>
+<center> <img style="width:300" src="./assets/passo2.png" alt="Passo 2"/> </center>
 <p><center> basta clicar no botão: "SORTEAR AMIGO" <strong>e o resultado aparecerá de forma instantânea!</strong</center></p>
-<center> <img style="width:300px" src="./assets/passo3.png" alt="Passo 3"/> </center>
+<center> <img style="width:300" src="./assets/passo3.png" alt="Passo 3"/> </center>
